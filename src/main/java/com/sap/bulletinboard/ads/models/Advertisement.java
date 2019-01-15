@@ -5,4 +5,8 @@ public class Advertisement {
     public Advertisement() {
         
     }
+    
+    public void setTitle(String title) {
+        this.title = title;
+    }
 }
